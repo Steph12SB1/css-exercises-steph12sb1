@@ -1,0 +1,18 @@
+.vtuber {
+    background-color: salmon;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#alpha {
+    color: blue;
+    font-size: 36px;
+}
+.vtuber.indie {
+    font-size: 24px;
+}
+
+#omega {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}

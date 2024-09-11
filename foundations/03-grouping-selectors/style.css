@@ -1,0 +1,13 @@
+.Dante, .Vergil {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.Dante {
+    background-color: black;
+    color: white;
+}
+
+.Vergil {
+    background-color: yellow;
+}
